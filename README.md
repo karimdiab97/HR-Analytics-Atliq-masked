@@ -112,6 +112,10 @@ To get started with this project, follow these steps:
 
 The data sources for this project may include internal HR records, performance evaluations, and other relevant HR-related datasets.
 
+![dashboard](https://github.com/karimdiab97/HR-Analytics-Atliq-masked/assets/101432419/8f75f2ad-137b-4a59-a85f-f3b1f6a9dcb4)
+
+
+
 ## Contributing
 
 We welcome contributions to this project! If you have ideas for improvements or new features, please open an issue or submit a pull request.

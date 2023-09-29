@@ -52,11 +52,11 @@ Dashboards are essential for presenting HR insights in a clear and actionable ma
 - Studies HR data by total quantity to identify top performers.
 - Identifies top contributors to HR success.
 
-#Dashboard 3 (Power BI)
+## Dashboard 3 (Power BI)
 
 - A comprehensive Power BI dashboard providing in-depth insights into HR performance, HR category analysis, and HR methods evaluation.
 
-#GettingStarted
+## GettingStarted
 
 To get started with this project, follow these steps:
 
@@ -69,7 +69,7 @@ To get started with this project, follow these steps:
 
 
 
-##Insights
+## Insights
 
 1. **Employee Performance Trends**: Analyze historical employee performance data to identify trends and patterns. Understand which employees consistently perform well and those who might need additional support or development.
 
@@ -85,7 +85,7 @@ To get started with this project, follow these steps:
 
 7. **Workforce Planning**: Utilize data to plan for future workforce needs. Identify skills gaps and develop strategies for recruiting or upskilling employees to meet future demands.
 
-#KPIs
+# KPIs
 
 1. **Employee Turnover Rate**: Measure the percentage of employees who leave the organization within a specific period. This KPI helps assess employee retention efforts.
 
